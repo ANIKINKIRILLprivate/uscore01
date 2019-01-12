@@ -1,1 +1,1 @@
-THAT ONE WITH ENCODER QR
+qrcode, requests, tops, recentactions
