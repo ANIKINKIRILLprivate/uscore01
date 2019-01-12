@@ -1,2 +1,1 @@
-# uscore01
-qrcode, requests, tops, recentactions
+THAT ONE WITH ENCODER QR
